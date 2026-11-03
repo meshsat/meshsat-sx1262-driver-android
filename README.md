@@ -66,6 +66,10 @@ The only Android for this phone is [GloDroid](https://github.com/GloDroidCommuni
 - **[MeshSat node](https://github.com/meshsat/meshsat-esp32)** and **[meshsat-firmware](https://github.com/meshsat/meshsat-firmware)**, the reference nodes this phone is tested against
 - **Pine64's PineDio**: the [back cover](https://wiki.pine64.org/wiki/Pinedio) and [JF002's driver](https://codeberg.org/JF002/pinedio-lora-driver), which documents the bridge
 
+## Mission and use policy
+
+MeshSat does not work with any organisation that develops, produces, integrates or operates weapon systems, and provides nothing for use in one. The licence below is unchanged: the policy covers whom we work with, not what you may do with the code. Read the [MeshSat Mission and Use Policy](https://meshsat.net/policy/).
+
 ## Licence
 
 GPL-3.0, like the rest of MeshSat. Meshtastic is a registered trademark of Meshtastic LLC; this project is not affiliated with it.
